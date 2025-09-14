@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-image: url("../resources/background@3x.png");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.logo img {
+  width: 60px;
+  margin: 20px 0;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 50px;
+  height: auto;
+}
+
+.titulo-prin h1 {
+  color: white;
+  font-size: 65px;
+  margin-bottom: 10px;
+}
+
+.titulo-sec h3 {
+  color: white;
+  font-size: 28px;
+  margin-bottom: 40px;
+  font-weight: normal;
+}
+
+.formulario {
+  max-width: 800px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.085);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: left;
+}
+.letras{
+  color: white;
+}
+
+/* Fila con flexbox */
+.input-row {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap; /* se ajusta en móviles */
+  margin-bottom: 15px;
+}
+
+/* Grupo de cada campo */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1; /* ocupan mismo ancho en la fila */
+  margin-bottom: 15px;
+}
+
+.input-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.input-group input,
+.input-group select,
+.input-group textarea {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Botón */
+button {
+  font-size: 18px;          /* Tamaño de letra más grande */
+  padding: 12px 30px; 
+  width: 800px;      /* Más grande en altura y ancho */
+  background-color: white;  /* Fondo blanco */
+  color: #663a99;           /* Texto azul */
+  border: 2px solid #f3f5f7; /* Borde azul */
+  border-radius: 6px;       /* Bordes redondeados */
+  cursor: pointer;          /* Cambia el cursor al pasar sobre el botón */
+  transition: background-color 0.3s, color 0.3s; /* Suaviza la transición */
+}
+
+button:hover {
+  background-color: #0056b3; /* Fondo azul oscuro al pasar el mouse */
+  color: white;              /* Texto blanco al hacer hover */
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  .input-row {
+    flex-direction: column;
+  }
+}
