@@ -23,4 +23,4 @@ https://github.com/JorgeE2626/Tareas-123
 ---
 
 ## 📝 Reflexión
-lo difisil fue poner los textos en su lugar como los diseñsosd de un cuadro dentro de otro como posicionar el logo 
+lo difisil fue poner los textos en su lugar como los diseños de un cuadro dentro de otro y como posicionar el logo 

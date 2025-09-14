@@ -2,21 +2,21 @@
 
 ---
 
-- Nombre: 
-- Número de Control:
+- Nombre:Macias Reynoso Jorge Eduardo
+- Número de Control:22150087
+
 
 ---
 
 ## 📌 Descripción
 
-
+Como se crean formularios, campos de entrada e inputs, así como aplicar un diseño responsivo y visualmente.
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 - HTML  
 - CSS  
-- Otro: 
 
 ---
 
@@ -25,4 +25,4 @@ https://github.com/JorgeE2626/Tareas-123
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+lo dificil fue como crear un formulario y como funciona, como tambien como acomodar los titulos encima de ellos.

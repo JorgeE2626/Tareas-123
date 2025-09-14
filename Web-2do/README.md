@@ -2,21 +2,20 @@
 
 ---
 
-- Nombre: 
-- Número de Control:
+- Nombre:Macias Reynoso Jorge Eduardo
+- Número de Control:22150087
+
 
 ---
 
 ## 📌 Descripción
-
-
+desarrollar una página web que muestre un listado de artículos.
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 - HTML  
 - CSS  
-- Otro: 
 
 ---
 
@@ -25,4 +24,4 @@ https://github.com/JorgeE2626/Tareas-123
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+lop dificil fue como acomodar las imagenes de forma separada y del mismos tamaño y que no se empalmase con las letras.
