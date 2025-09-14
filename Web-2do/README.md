@@ -21,8 +21,7 @@
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+https://github.com/JorgeE2626/Tareas-123
 ---
 
 ## 📝 Reflexión
